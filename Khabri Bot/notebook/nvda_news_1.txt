@@ -1,0 +1,13 @@
+Major Chinese technology companies, including Alibaba (NYSE:BABA), Tencent (TCEHY), and ByteDance (BDNCE), have reportedly placed more than $16 billion in orders for Nvidia's (NASDAQ:NVDA) H20 AI server chips during the first quarter of 2025, according to The Information. The surge in demand is tied to concerns over a potential U.S. ban on exports of the chip to China.
+
+
+These orders could benefit Nvidia financially but only if the company can fulfill them before any new export restrictions take effect. Nvidia generated $17.11 billion in sales from China in its fiscal year ended January 26, accounting for about 13% of its total $130.5 billion revenue.
+
+The H20 chips are currently allowed for export to China, unlike Nvidia's more advanced chips restricted by U.S. policy. In response to increased demand from Chinese firms, Nvidia has upgraded the H20 by integrating the high-bandwidth memory used in its flagship Blackwell chips, improving performance for AI training and inference.
+
+
+Despite the order spike, Nvidia reportedly lacks sufficient production capacity at Taiwan Semiconductor Manufacturing (NYSE:TSM) to meet demand in the short term. Manufacturing the chips could take up to six months, pushing deliveries into the fourth quarter.
+
+If U.S. restrictions tighten before deliveries are made, Nvidia may be forced to offer discounts or find alternative buyers for the chips. That scenario could lead to customer refund requests or excess inventory. Huawei's growing role in AI chip development also poses competitive pressure, as its domestic presence continues to expand despite earlier U.S. sanctions.
+
+This article first appeared on GuruFocus.
