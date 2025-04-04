@@ -11,3 +11,4 @@ if question:
     
     st.header("Answer")
     st.write(response["result"])
+# to run this use =>>>    streamlit run main.py --server.enableCORS false --server.enableXsrfProtection false
